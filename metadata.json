@@ -1,0 +1,6 @@
+{
+  "name": "ENTRE NOS — Intervención COM-B en Seguridad Laboral",
+  "description": "Herramienta digital basada en el modelo COM-B para impulsar la implementación de controles físicos de seguridad laboral en micro y pequeñas empresas. La confianza también nos protege.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
